@@ -37,7 +37,7 @@ food tracker/
 ### 1.  Clone the repo
 
 ```bash
-git clone https://github.com/username/food-tracker.git
+git clone https://github.com/Anubhav-Goyal01/Food-Tracker.git
 ```
 
 ### 2. Create the database
